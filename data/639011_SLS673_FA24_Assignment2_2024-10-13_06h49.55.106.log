@@ -1,0 +1,75 @@
+1.9165 	WARNING 	Requested audio device 'LG ULTRAWIDE' that is not available on this hardware. The 'audioDevice' preference should be one of ['MacBook Air Speakers', 'ZoomAudioDevice']
+5.2939 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+5.2947 	INFO 	Loaded monitor calibration from ['2024_06_13 13:31']
+5.5167 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fae2298ea30>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fae2298e9d0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fae2298e7c0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fae32de4cd0>, multiSample=False, name='window1', numSamples=2, pos=[535.0, 328.0], screen=0, size=array([1600, 1200]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.5167 	EXP 	window1: backgroundImage = ''
+5.5167 	EXP 	window1: backgroundFit = 'none'
+5.5169 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae2298eb50>
+5.5170 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae2298eb50>
+5.5190 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae2298eb50>
+5.5194 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae2298eb50>
+5.5274 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5278 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5282 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5288 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5294 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5296 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5300 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5306 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5309 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5310 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5315 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5319 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5323 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5327 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5330 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5334 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5339 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5341 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5343 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5349 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5353 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5358 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.5387 	DEBUG 	Upload of Texture Font fontname complete
+5.5405 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae2298eb50>
+5.5406 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae2298eb50>
+5.5410 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae2298eb50>
+5.5413 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x7fae2298eb50>
+5.5437 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5443 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5449 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5451 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.5468 	DEBUG 	Upload of Texture Font fontname complete
+5.5489 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.5489 	EXP 	window1: recordFrameIntervals = False
+5.7225 	EXP 	window1: recordFrameIntervals = True
+6.5564 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+6.5566 	EXP 	window1: mouseVisible = False
+6.5571 	EXP 	window1: mouseVisible = False
+6.5575 	EXP 	window1: mouseVisible = False
+6.5586 	EXP 	window1: mouseVisible = False
+6.5595 	EXP 	window1: mouseVisible = False
+6.5663 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5669 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5679 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5694 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5706 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5718 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5723 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5733 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5745 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5755 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.5758 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.5796 	DEBUG 	Upload of Texture Font fontname complete
+6.5829 	EXP 	window1: mouseVisible = False
+6.5830 	EXP 	window1: mouseVisible = False
+6.5835 	EXP 	window1: mouseVisible = False
+6.5840 	EXP 	window1: mouseVisible = False
+6.6165 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+36.8700 	EXP 	window1: mouseVisible = True
+36.8711 	DEBUG 	Saving data for SLS673_FA24_Assignment2 ExperimentHandler
+36.8721 	INFO 	saved data to /Users/sebi/Library/CloudStorage/OneDrive-hawaii.edu/Fall 2024/SLS673 - Applied Psycholinguistics & SLA/Assignments/Assignment 2/SLS673_FA24_Assignment2_Psychopy/data/639011_SLS673_FA24_Assignment2_2024-10-13_06h49.55.106.psydat
+36.8724 	INFO 	saved data to '/Users/sebi/Library/CloudStorage/OneDrive-hawaii.edu/Fall 2024/SLS673 - Applied Psycholinguistics & SLA/Assignments/Assignment 2/SLS673_FA24_Assignment2_Psychopy/data/639011_SLS673_FA24_Assignment2_2024-10-13_06h49.55.106.csv'
